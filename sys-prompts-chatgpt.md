@@ -1,5 +1,3 @@
-# sys-prompts
-System Prompts of major GenAI providers
 # OpenAI
 ##  ChatGPT Free - GPT-4o
 ### Snapshot date: 27-Aug-2024
