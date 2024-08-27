@@ -12,3 +12,4 @@ System Prompts of major GenAI providers
 #### ChatGPT Personal Plus - GPT-4o mini
 #### ChatGPT Personal Plus - GPT-4o Temporary Chat
 ## To cover
+# More coming soon
